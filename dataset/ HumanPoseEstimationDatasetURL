@@ -1,0 +1,41 @@
+ 人体姿态估计数据集整理（Pose Estimation/Keypoint） 
+
+UCF
+    http://crcv.ucf.edu/data/UCF101.php
+
+LSP
+
+    地址：http://sam.johnson.io/research/lsp.html
+    样本数：2K
+    关节点个数：14
+    全身，单人
+
+FLIC
+
+    地址：https://bensapp.github.io/flic-dataset.html
+    样本数：2W
+    关节点个数：9
+    全身，单人
+
+MPII
+
+    地址：http://human-pose.mpi-inf.mpg.de/
+    样本数：25K
+    关节点个数：16
+    全身，单人/多人，40K people，410 human activities
+
+MSCOCO
+
+    地址：http://cocodataset.org/#download
+    样本数：>= 30W
+    关节点个数：18
+    全身，多人，keypoints on 10W people
+
+AI Challenge
+
+    地址：https://challenger.ai/competition/keypoint/subject
+    样本数：21W Training, 3W Validation, 3W Testing
+    关节点个数：14
+    全身，多人，38W people
+
+
